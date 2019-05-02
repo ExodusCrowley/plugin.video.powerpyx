@@ -1,0 +1,4 @@
+1.0.2 - 20190502
+-----------------
+-Add Days Gone Trophy Guide
+-Add Mortal Kombat 11 Playlist
