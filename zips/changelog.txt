@@ -1,3 +1,0 @@
-20190502
----------
--Add plugin.video.powerpyx-1.0.2
